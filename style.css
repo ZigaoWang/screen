@@ -1,0 +1,9 @@
+#screen-resolution  {
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
